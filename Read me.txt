@@ -1,0 +1,9 @@
+simple python program for extracting weather information of any given place.
+
+modules used>
+bs4
+requeste
+datetime
+
+How to use==>
+just enter the location name in the terminal.
